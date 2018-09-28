@@ -38,7 +38,7 @@ GLOBAL subseq
 subseq:
 ; --PROLOGO --
 
-	prologo					; llame al prologo común
+	prologo			; llame al prologo común
 	
 ; --CUERPO --
 compare_subseq:
